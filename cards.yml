@@ -1,0 +1,13 @@
+
+build:
+  version: "3.0"
+
+cards:
+  message: " Welcome home"
+  contactDetails:
+    name: "Hello World"
+    email: "hello@gmail.com"
+  onCallSupport:
+    -4378549805078
+    -8698065899060
+

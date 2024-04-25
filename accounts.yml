@@ -1,0 +1,12 @@
+#always mantain the indentations
+build:
+  version: "3.0"
+
+accounts:
+  message: " Welcome home"
+  contactDetails:
+    name: "Hello World"
+    email: "hello@gmail.com"
+  onCallSupport:
+    -4378549805078
+    -8698065899060
