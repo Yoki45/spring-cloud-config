@@ -6,7 +6,7 @@ accounts:
   message: " Welcome home-prod"
   contactDetails:
     name: "Hello World 2"
-    email: "hello@gmail.com"
+    email: "{cipher}af24aee53af2ade6603fc4fd26d912005524df3cf57b50e47ac0cdbf1ba12701"
   onCallSupport:
     -4378549805078
     -8698065899060
